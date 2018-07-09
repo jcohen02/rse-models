@@ -1,4 +1,4 @@
-# rse-models: 
+# rse-models
 ### A repository for storing information, documentation, ideas, comments and suggestions on the development of standardised models or approaches to the sustainable development of research software.
 
 ---
